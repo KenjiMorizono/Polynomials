@@ -1,0 +1,27 @@
+Kenji Morizono MSU Denver Fall 2017 CS 2050
+
+User choice for main menu: 1
+User Input Polynomial: 2x^2 + 4x + 1
+
+Original Result:  2x^2 + 4x + 1
+User choice for user polynomial menu: 1
+User Input Polynomial: 2x^2 + 6x + 4
+
+Result:  4x^2 + 10x + 5
+Original Result:  2x^2 + 4x + 1
+User choice for user polynomial menu: 2
+Original Result:  2x^2 + 4x + 1
+User choice for user polynomial menu: 0
+User choice for main menu: 1
+User Input Polynomial: 3x^3 + 4x + 1
+
+Original Result:  3x^3 + 4x + 1
+User choice for user polynomial menu: 1
+User Input Polynomial: 3x^5 + 2x^4 + 2x^2 + 9
+
+Result:  3x^5 + 2x^4 + 3x^3 + 2x^2 + 4x + 10
+Original Result:  3x^3 + 4x + 1
+User choice for user polynomial menu: 2
+Original Result:  3x^3 + 4x + 1
+User choice for user polynomial menu: 0
+User choice for main menu: 0

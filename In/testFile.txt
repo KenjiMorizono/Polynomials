@@ -1,0 +1,33 @@
+add
+x^5 + 2x^4 + 3x^3 + 2x^2 + 2x + 1
+4x^5 + 3x^4 + 2x^3 + 3x^2 + 3x + 4
+evaluate
+x^2 + 9
+3
+evaluate
+x^3 + 1
+5
+add
+2x^2 + 4x + 1
+3x^3 + 2
+add
+x^3
+x^2 + 4x + 1
+evaluate
+x
+5
+add
+x^5
+x^4 + 3x^2 + 3x + 1
+add
+x
+1
+add
+x
+x
+add
+0x^3 + 2x^2 + 1
+2x^2 + 0x + 1
+evaluate
+5
+9999
