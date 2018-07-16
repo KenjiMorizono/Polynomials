@@ -1,7 +1,7 @@
 # Polynomials
 This program does not have an interface and runs from the command line
 
-Limitations:
+Specifications:
   1.	Polynomials are stored in a linked list of Term objects (two classes: Polynomial and Term).  Term objects have two data fields: coefficient and exponent, both integers; all exponents will be positive.  Polynomial will have some methods that create linked list functionality, but not all list operations are needed; include only those used by this program.  Do not use a separate linked list class.
   2.	The list will be non-circular.  Make a decision on whether to use a doubly-linked list and/or a tail reference.  Explain your decisions in the cover letter; why are your choices good for the polynomial project?
   3.	Basic polynomial functions: read a polynomial from the user, read a polynomial from a file, add two polynomials (output to screen and file), evaluate a polynomial (output to screen and file).  Evaluate takes a value for x (the variable), then calculates the polynomial’s value.
